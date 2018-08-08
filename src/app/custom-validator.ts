@@ -39,7 +39,5 @@ export class CustomValidator {
       // if they don't match, set an error in our confirmPassword formcontrol
       control.get('confirmPassword').setErrors({ NoPassswordMatch: true });
     }
-
-    return null;
   }
 }
