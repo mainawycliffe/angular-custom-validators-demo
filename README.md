@@ -8,4 +8,4 @@ And run the angular application:
 
 ng s --aot
 
-The accompanying post for this demo can be located on my website here.
+The accompanying post for this demo can be located on my website here (https://theinfogrid.com/tech/developers/angular/angular-building-custom-validators/).
